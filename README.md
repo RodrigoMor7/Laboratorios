@@ -1,1 +1,1 @@
-# Laboratorio
+# Laboratorios de pensamiento computacional.
